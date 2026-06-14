@@ -4,7 +4,7 @@ title: "Oats Lab 블로그를 시작합니다"
 date: 2026-06-11 00:00:00 +0900
 categories: [Blog]
 tags: [github-pages, jekyll, chirpy, homelab]
----------------------------------------------
+---
 
 안녕하세요. Oats Lab 블로그를 시작합니다.
 
