@@ -15,5 +15,3 @@ Stirling PDF
 Memos
 
 ClipCascade
-
-<figure class="image"><img style="aspect-ratio:800/450;" src="구축해보고 싶은 서비스_image.webp" alt="우는 고양이 - 나무위키" width="800" height="450"></figure>
